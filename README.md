@@ -1,4 +1,7 @@
-### Pongpon Phuengsaeng
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=A7C957&center=true&vCenter=true&width=600&height=45&lines=Pongpon+Phuengsaeng;geoinformatics+%2F%2F+remote+sensing;satellite+data+into+web+tools" alt="typing" />
+</p>
+
 `geoinformatics // remote sensing` · Bangkok, TH
 
 Turning satellite and spatial data into web tools and insight.
