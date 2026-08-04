@@ -32,3 +32,7 @@ domains · `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
 #### // Contact
 
 `mail` pongpon.psng@gmail.com   `in` [pongpon-phuengsaeng](https://www.linkedin.com/in/pongpon-phuengsaeng-958156413/)
+
+---
+
+![](./metrics.svg)
