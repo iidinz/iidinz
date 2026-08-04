@@ -21,13 +21,13 @@ domains      `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
 #### // Selected Projects
 
 - **TuamPaiNai** — interactive Web GIS mapping flood extent from Sentinel-1
-  SAR imagery (SNAP) for Phra Nakhon Si Ayutthaya. → [link]
+  SAR imagery (SNAP) for Phra Nakhon Si Ayutthaya.
 - **Mangrove Carbon Assessment Platform** — Web GIS concept for mangrove
-  carbon-credit (T-VER) monitoring using LiDAR and machine learning. → [link]
+  carbon-credit (T-VER) monitoring using LiDAR and machine learning.
 - **Forest Classification with Vegetation Indices** — compared 9 indices via
-  Random Forest over 20 years of Google Earth Engine data, Khao Yai NP. → [link]
+  Random Forest over 20 years of Google Earth Engine data, Khao Yai NP.
 - **Land Cover from Social Media Images** — ML land-cover classification for
-  Chiang Mai using geo-tagged Flickr images and 21 image features. → [link]
+  Chiang Mai using geo-tagged Flickr images and 21 image features.
 
 #### // Contact
 
