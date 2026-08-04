@@ -13,10 +13,9 @@ satellite imagery and spatial databases into interactive maps and models.
 
 #### // Toolkit
 
-geospatial · `ArcGIS Pro` · `QGIS` · `ENVI` · `SNAP` · `Google Earth Engine`<br>
-automation · `Python` · `ArcPy` · `ModelBuilder` · `R`<br>
-web / data · `PostGIS` · `GeoServer` · `Leaflet` · `Mapbox` · `Next.js` · `React`<br>
-domains · `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
+geospatial · `ArcGIS Pro` · `QGIS` · `ENVI` · `SNAP` · `Google Earth Engine`
+
+[![Tools](https://skillicons.dev/icons?i=python,r,postgres,js,ts,react,nextjs,nodejs,git,github,vscode&perline=11)](https://skillicons.dev)
 
 #### // Selected Projects
 
