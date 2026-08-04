@@ -13,10 +13,10 @@ satellite imagery and spatial databases into interactive maps and models.
 
 #### // Toolkit
 
-geospatial   `ArcGIS Pro` · `QGIS` · `ENVI` · `SNAP` · `Google Earth Engine`
-automation   `Python` · `ArcPy` · `ModelBuilder` · `R`
-web / data   `PostGIS` · `GeoServer` · `Leaflet` · `Mapbox` · `Next.js` · `React`
-domains      `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
+geospatial · `ArcGIS Pro` · `QGIS` · `ENVI` · `SNAP` · `Google Earth Engine`<br>
+automation · `Python` · `ArcPy` · `ModelBuilder` · `R`<br>
+web / data · `PostGIS` · `GeoServer` · `Leaflet` · `Mapbox` · `Next.js` · `React`<br>
+domains · `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
 
 #### // Selected Projects
 
@@ -31,4 +31,4 @@ domains      `Remote Sensing` · `Photogrammetry` · `Spatial Analysis`
 
 #### // Contact
 
-`mail` pongpon.psng@gmail.com   `in` linkedin.com/in/[https://www.linkedin.com/in/pongpon-phuengsaeng-958156413/]
+`mail` pongpon.psng@gmail.com   `in` [pongpon-phuengsaeng](https://www.linkedin.com/in/pongpon-phuengsaeng-958156413/)
