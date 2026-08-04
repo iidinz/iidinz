@@ -20,7 +20,7 @@ geospatial · `ArcGIS Pro` · `QGIS` · `ENVI` · `SNAP` · `Google Earth Engine
 
 [![Tools](https://skillicons.dev/icons?i=python,r,postgres,js,ts,react,nextjs,nodejs,git,github,vscode&perline=11)](https://skillicons.dev)
 
-#### // Selected Projects
+#### Projects
 
 - **TuamPaiNai** — interactive Web GIS mapping flood extent from Sentinel-1
   SAR imagery (SNAP) for Phra Nakhon Si Ayutthaya.
