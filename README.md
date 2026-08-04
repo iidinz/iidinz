@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1200&color=A7C957&center=true&vCenter=true&width=600&height=45&lines=Pongpon+Phuengsaeng;geoinformatics+remote+sensing;satellite+data+into+web+tools" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1200&color=A7C957&center=true&vCenter=true&width=600&height=45&lines=Pongpon+Phuengsaeng;geoinformatics%2F%2F+remote+sensing;satellite+data+into+web+tools" alt="typing" />
 </p>
 
 `geoinformatics // remote sensing` · Bangkok, TH
